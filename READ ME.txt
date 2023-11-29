@@ -1,0 +1,3 @@
+El sisguinete programa toma como entrada un archivo .txt que contiene 50 url con 10 temas, al iniciarse la aplicacion de interfaz2 puede ser necesario compilarse 2 veces ya que en ocasiones el kernel de Jupyter colapsa y le es posbile ejecutarlo cuando se reincia, otro posible error sea el bloque de las solictudes a los servidores de una url como solución debe cambiarse dicha url en el archivo urls.txt y ejecuarse el programa ind_in_raiz para generar el diccionario invertido de nuevo, el cual se almacena en el archivo raiz_ind_inv.txt las salidas de labúsqueda se obtiene por la consola del jupyter debido a la falta de tiempo para su implementación dentro de la interfaz.
+
+PD: El costo de creación de este software fueron 3 calambres y una crisis de estrés.
